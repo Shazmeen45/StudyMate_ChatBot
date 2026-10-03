@@ -90,7 +90,7 @@ Do not upload the .env file to GitHub.
 ## 7. Run the Application 
 ```bash
 python -m streamlit run app.py
-```
+
 
 The application will open in your browser.
 
